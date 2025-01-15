@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjames0814
 - 👀 I’m interested in history, engineering, robotics, programming, science fiction, and whatever else has my attention at the moment.
-- 🌱 I’m currently learning Python and C and getting certified in teaching.
+- 🌱 I’m currently learning Python and C, and I'm getting certified in teaching.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
